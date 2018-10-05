@@ -114,6 +114,7 @@ footer img {
     font-size: 11px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.1em;
+    margin-top: 0;
 
 }
 
@@ -145,6 +146,7 @@ footer img {
 .anchorLinks {
     color: black;
     text-decoration: none;
+    font-weight: bold;
 }
 
 .listFactsAboutMe {
@@ -169,4 +171,11 @@ footer img {
     font-size: 11px;
     font-family: Arial, Helvetica, sans-serif;
     letter-spacing: 0.1em;
+}
+
+.dagsKost {
+    font-size: 11px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 0.1em;
+    font-weight: bold;
 }
